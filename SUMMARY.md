@@ -1,34 +1,43 @@
 # Table of contents
 
 * [클라우드 고객센터](README.md)
-* [관리자 매뉴얼](undefined.md)
+* [관리자 매뉴얼](undefined/README.md)
+  * [Page 1](undefined/page-1/README.md)
+    * [회원관리](undefined/page-1/undefined.md)
+    * [Page 2](undefined/page-1/page-2.md)
 
 ## 관리자 매뉴얼
 
-* [회원정보관리](undefined-1/undefined/README.md)
-  * [회원관리](undefined-1/undefined/undefined.md)
-  * [발송관리](undefined-1/undefined/undefined-1.md)
-* [테스트용](undefined-1/undefined-1/README.md)
-  * [콘텐츠 관리](undefined-1/undefined-1/undefined.md)
+* [맑은이러닝소개](undefined-1/undefined/README.md)
+  * [관리자(운영자)](undefined-1/undefined/undefined.md)
+  * [사용자(수강생)](undefined-1/undefined/undefined-1.md)
+* [관리자 페이지](undefined-1/undefined-1/README.md)
+  * [Page 3](undefined-1/undefined-1/page-3.md)
+* [회원정보관리](undefined-1/undefined-2/README.md)
+  * [회원관리](undefined-1/undefined-2/undefined.md)
+  * [발송관리](undefined-1/undefined-2/undefined-1.md)
+* [관리자 페이지](undefined-1/undefined-3.md)
+* [테스트용](undefined-1/undefined-1-1/README.md)
+  * [콘텐츠 관리](undefined-1/undefined-1-1/undefined.md)
   * ```yaml
-    type: builtin:openapi
     props:
       models: true
       downloadLink: true
+    type: builtin:openapi
     dependencies:
       spec:
         ref:
           kind: openapi
           spec: api
     ```
-* [교육상품관리](undefined-1/undefined-2/README.md)
-  * [과정관리](undefined-1/undefined-2/undefined.md)
-  * [마이크로러닝관리](undefined-1/undefined-2/undefined-1.md)
-  * [연수관리](undefined-1/undefined-2/undefined-2.md)
-  * [정기구독관리](undefined-1/undefined-2/undefined-3.md)
-  * [도서관리](undefined-1/undefined-2/undefined-4.md)
-  * [마켓관리](undefined-1/undefined-2/undefined-5.md)
-  * [인증서관리 ](undefined-1/undefined-2/undefined-6.md)
+* [교육상품관리](undefined-1/undefined-2-1/README.md)
+  * [과정관리](undefined-1/undefined-2-1/undefined.md)
+  * [마이크로러닝관리](undefined-1/undefined-2-1/undefined-1.md)
+  * [연수관리](undefined-1/undefined-2-1/undefined-2.md)
+  * [정기구독관리](undefined-1/undefined-2-1/undefined-3.md)
+  * [도서관리](undefined-1/undefined-2-1/undefined-4.md)
+  * [마켓관리](undefined-1/undefined-2-1/undefined-5.md)
+  * [인증서관리](undefined-1/undefined-2-1/undefined-6.md)
 
 ## Plans and billing <a href="#plans-billing" id="plans-billing"></a>
 
